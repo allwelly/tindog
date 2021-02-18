@@ -59,6 +59,10 @@ p {
   position: absolute;
   right: 25%;
 }
+/* Title */
+#title {
+    text-align: left;
+}
 
 @media (max-width: 1028px) {
   #title {
@@ -69,11 +73,6 @@ p {
     transform: rotate(0);
     width: 65%;
   }
-}
-
-/* Title */
-#title {
-    text-align: left;
 }
 
 /* Features */
